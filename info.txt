@@ -1,0 +1,118 @@
+
+Apple Diseases
+Apple Scab:
+\n- Precautions: Plant resistant varieties, apply fungicides early.
+\n- Cures: Prune infected leaves, use neem oil or copper fungicides.
+
+Black Rot:
+\n- Precautions: Remove mummified fruit, ensure proper air circulation.
+\n- Cures: Cut out infected areas, apply fungicides (Mancozeb, Captan).
+
+Cedar Apple Rust:
+\n- Precautions: Remove nearby juniper trees, plant resistant varieties.
+\n- Cures: Use sulfur or copper fungicides, prune infected leaves.
+
+---
+Blueberry & Cherry Diseases
+Powdery Mildew (Cherry):
+\n- Precautions: Ensure good airflow, apply sulfur-based fungicides.
+\n- Cures: Remove affected leaves, use potassium bicarbonate spray.
+
+---
+Corn Diseases
+Cercospora Leaf Spot/Gray Leaf Spot:
+\n- Precautions: Rotate crops, avoid overhead watering.
+\n- Cures: Apply fungicides (Propiconazole, Strobilurins).
+
+Common Rust:
+\n- Precautions: Grow resistant varieties, avoid humid conditions.
+\n- Cures: Use fungicides like Propiconazole.
+
+Northern Leaf Blight:
+\n- Precautions: Rotate crops, ensure proper drainage.
+\n- Cures: Apply fungicides and remove infected leaves.
+
+---
+Grape Diseases
+Black Rot:
+\n- Precautions: Prune vines, remove fallen debris.
+\n- Cures: Apply copper fungicides, remove infected grapes.
+
+Esca (Black Measles):
+\n- Precautions: Avoid wounds in vines, maintain soil health.
+\n- Cures: Remove infected wood, apply fungicides.
+
+Leaf Blight:
+\n- Precautions: Ensure proper vine spacing, apply fungicides early.
+\n- Cures: Remove infected leaves, use sulfur sprays.
+
+---
+Citrus & Peach Diseases
+Citrus Greening:
+\n- Precautions: Control psyllid insects, plant certified disease-free trees.
+\n- Cures: No cure, remove infected trees to prevent spread.
+
+Bacterial Spot (Peach):
+\n- Precautions: Use resistant varieties, avoid overhead watering.
+\n- Cures: Apply copper-based sprays, remove infected leaves.
+
+---
+Pepper Diseases
+Bacterial Spot:
+\n- Precautions: Plant disease-free seeds, use drip irrigation.
+\n- Cures: Use copper sprays, remove affected leaves.
+
+---
+Potato Diseases
+Early Blight:
+\n- Precautions: Rotate crops, mulch soil.
+\n- Cures: Use copper fungicides, remove infected foliage.
+
+Late Blight:
+\n- Precautions: Avoid excessive moisture, plant resistant varieties.
+\n- Cures: Apply Chlorothalonil or Copper fungicides.
+
+---
+Squash & Strawberry Diseases
+Powdery Mildew (Squash):
+\n- Precautions: Provide good air circulation, avoid wet leaves.
+\n- Cures: Use sulfur or neem oil sprays.
+
+Leaf Scorch (Strawberry):
+\n- Precautions: Water properly, avoid overcrowding plants.
+\n- Cures: Apply copper-based fungicides, prune infected leaves.
+
+---
+Tomato Diseases
+Bacterial Spot:
+\n- Precautions: Avoid overhead irrigation, use resistant varieties.
+\n- Cures: Apply copper sprays, remove affected leaves.
+
+Early Blight & Late Blight:
+\n- Precautions: Rotate crops, use mulch to prevent soil splash.
+\n- Cures: Use fungicides (Chlorothalonil, Copper spray), remove infected leaves.
+
+Leaf Mold:
+\n- Precautions: Increase airflow, avoid high humidity.
+\n- Cures: Use copper fungicides, remove affected areas.
+
+Septoria Leaf Spot:
+\n- Precautions: Plant resistant varieties, ensure proper spacing.
+\n- Cures: Apply fungicides (Mancozeb, Chlorothalonil), remove infected leaves.
+
+Spider Mites:
+\n- Precautions: Keep plants hydrated, introduce predatory insects.
+\n- Cures: Use insecticidal soap or neem oil.
+
+Target Spot:
+\n- Precautions: Avoid wet foliage, maintain proper spacing.
+\n- Cures: Use copper-based fungicides.
+
+Tomato Yellow Leaf Curl Virus:
+\n- Precautions: Control whiteflies, plant resistant varieties.
+\n- Cures: Remove infected plants, use insecticidal soap.
+
+Tomato Mosaic Virus:
+\n- Precautions: Sanitize tools, avoid handling plants excessively.
+\n- Cures: Remove infected plants, no chemical cure available.
+
